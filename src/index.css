@@ -3,8 +3,13 @@ body {
   margin: 20px;
 }
 
-ol, ul {
+ol,
+ul {
   padding-left: 30px;
+}
+
+li {
+  padding-top: 3px;
 }
 
 .board-row:after {
@@ -47,4 +52,15 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
+}
+
+.btn-list {
+  background: transparent;
+  border: 1px solid #cdcdcd;
+  color: #4e4e4e;
+  cursor: pointer;
+}
+
+.btn-selected{
+  font-weight: bold;
 }
