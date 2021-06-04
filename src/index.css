@@ -64,3 +64,7 @@ li {
 .btn-selected{
   font-weight: bold;
 }
+
+.square-winner{
+  background: green;
+}
