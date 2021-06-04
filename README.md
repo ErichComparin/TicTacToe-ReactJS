@@ -25,7 +25,7 @@
 
 ## 💻 Sobre o projeto
 
-Jogo da velha criado em ReactJS conforme [documentação oficial](https://reactjs.org/docs/getting-started.html)
+Jogo da velha criado em ReactJS conforme [documentação oficial](https://reactjs.org/tutorial/tutorial.html)
 
 ---
 
