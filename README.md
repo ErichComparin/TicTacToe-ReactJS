@@ -10,7 +10,6 @@
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=./readme/banner.jpg?raw=true" />
     ✖️ Tic Tac Toe (jogo da velha) ⭕
 </h1>
 
